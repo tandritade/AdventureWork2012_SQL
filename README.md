@@ -6,7 +6,7 @@
     sample database that represents a fictitious bicycle manufacturer. The project includes a 
     series of SQL queries executed on the AdventureWorks2012 database to gather specific 
     information.
-# Project motivation
+# Quaries and Result
     Person Details with Email and Phone Numbers:
 
     Retrieve all details from the Person table, including email ID, phone number, and phone 
